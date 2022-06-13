@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, Gsap**
 
-- 😌 I enjoy music, design and art, collecting life hacks, playing action and strategy game, and anything that I find fun and helpful. Also, I'm a sucker for 🐈🐈‍⬛
+- 😎 I enjoy music, design and art, collecting life hacks, playing action and strategy game, and anything that I find fun and helpful. Also, I'm a sucker for 🐈🐈‍⬛
 
 - 📫 How to reach me: **linhxwebwork@gmail.com**
 
