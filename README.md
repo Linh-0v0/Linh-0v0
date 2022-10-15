@@ -8,7 +8,7 @@
 
 - 🥸 I'm learning and doing web development (specifically frontend and the basic of backend)
 
-- 🌱 I’m currently learning **React Native, Gsap**
+- 🌱 I’m currently learning **React, Gsap**
 
 - 😎 I enjoy music, design and art, collecting life hacks, playing action and strategy game, and anything that I find fun and helpful. Also, I'm a sucker for 🐈🐈‍⬛
 
