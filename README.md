@@ -6,9 +6,9 @@
  
 - 🏫 I’m currently studying at RMIT University based in Ho Chi Minh city, Vietnam
 
-- 🥸 I do web and app development.
+- 🥸 I do app, but mainly web development (both FE and BE)
 
-- 🌱 I’m currently interested and learning **3D modelling**
+- 🌱 I’m currently interested and learning **3D modelling** and 3D website in general
 
 - 😎 I enjoy music, design and art, action and strategy games, and anything that I find fun or helpful. Also, I'm a sucker for 🐈🐈‍⬛
 
