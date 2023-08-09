@@ -8,7 +8,7 @@
 
 - 🥸 I do app, but mainly web development (both FE and BE)
 
-- 🌱 I’m currently interested and learning **3D modelling** and 3D website in general
+- 🌱 I’m currently interested and learning **3D modelling** to do 3D interactive website.
 
 - 😎 I enjoy music, design and art, action and strategy games, and anything that I find fun or helpful. Also, I'm a sucker for 🐈🐈‍⬛
 
