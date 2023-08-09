@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👀, I'm Linh Vu (full name: Vu Bui Khanh Linh)</h1>
-<h3 align="center">A frontend developer born in Vietnam</h3>
+<h3 align="center">A software developer in Vietnam</h3>
 <img align="right" alt="Penguin walking" width="350" src="https://cdn.dribbble.com/users/22930/screenshots/3754176/penguin_waddle.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linh-0v0&label=Profile%20views&color=0e75b6&style=flat" alt="linh-0v0" /> </p>
