@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linh-0v0&label=Profile%20views&color=0e75b6&style=flat" alt="linh-0v0" /> </p>
  
-- 🏫 I’m currently studying at RMIT University based in Ho Chi Minh city, Vietnam.
+- 🏫 Currently studying at RMIT University based in Ho Chi Minh city, Vietnam.
 
 - 🥸 I do app, but mainly web development (both FE and BE).
 
 - 🌱 I’m currently interested and learning **3D modelling** to do 3D interactive website.
 
-- 😎 I enjoy music, design and art, action and strategy games, and anything that I find fun or helpful. Also, I'm a sucker for 🐈🐈‍⬛.
+- 😎 Enjoy music, design and art, action and strategy games, and anything that I find fun or helpful. Also, a sucker for 🐈🐈‍⬛.
 
 - 📫 How to reach me: **linhxwebwork@gmail.com**.
 
