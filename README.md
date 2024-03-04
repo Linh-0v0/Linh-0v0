@@ -8,7 +8,7 @@
 
 - 🥸 My major is IT, minor is web & app development (can do both FE and BE).
 
-- 🌱 I’ve done **3D modelling** and a 3D interactive website, and feel more interested in doing BE.
+- 🌱 I’ve done **3D modelling** and a 3D interactive website, and now feel more interested in doing BE.
 
 - 😎 Apart from studying/working, I enjoy music, games, and anything that I find fun or helpful. Also, a sucker for 🐈🐈‍⬛.
 
