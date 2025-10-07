@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linh-0v0&label=Profile%20views&color=0e75b6&style=flat" alt="linh-0v0" /> </p>
  
-- 🏫 Currently studying at RMIT University based in Ho Chi Minh city, Vietnam.
+- 🏫 Graduated at RMIT University based in Ho Chi Minh city, Vietnam.
 
 - 🥸 My major is IT, minor is web & app development (can do both FE and BE).
 
